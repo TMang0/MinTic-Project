@@ -8,7 +8,7 @@ public class Conexion {
     private Connection con;
     private static final String DB_DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String HOST = "localhost:3306";
-    private static final String DB = "rockola";
+    private static final String DB = "sprint4";
     private static final String URL = "jdbc:mysql://" + HOST + "/" + DB;
     private static final String USERNAME = "root";
     private static final String PASSWORD = "Dos861022";
